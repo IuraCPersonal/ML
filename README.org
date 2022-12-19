@@ -1,5 +1,30 @@
-#+TITLE: Machine Learning Resources
+#+TITLE: MACHINE LEARNING RESOURCES
 #+AUTHOR: IuraCPersonal
 
-* TABLE OF CONTENTS
+** 👋 TABLE OF CONTENTS :toc:
+  - [[#-introduction][📑 INTRODUCTION]]
+  - [[#-progress][🎯 PROGRESS]]
+  - [[#-contact][📮 CONTACT]]
 
+** 📑 INTRODUCTION
+
+*** About this Repository
+
+This repository contains some learning resources and my personal learning road to a beginner =Machine Learning Engineer=.
+
+** 🎯 PROGRESS
+
+- [[https://github.com/IuraCPersonal/machine-learning/tree/main/Automate%20The%20Boring%20Stuff%20with%20Python][Automate The Boring Stuff with Python]]
+- [[https://github.com/IuraCPersonal/machine-learning/tree/main/Data%20Science%20Handbook][Data Science Handbook]]
+  - [[https://github.com/IuraCPersonal/machine-learning/blob/main/Data%20Science%20Handbook/1.%20Introduction%20to%20NumPy/script.ipynb][1. Introduction to NumPy]]
+  - [[https://github.com/IuraCPersonal/machine-learning/blob/main/Data%20Science%20Handbook/2.%20Data%20Manipulation%20with%20Pandas/script.ipynb][2. Data Manipulation with Pandas]]
+  - [[https://github.com/IuraCPersonal/machine-learning/tree/main/Data%20Science%20Handbook/3.%20Machine%20Learning][3. Machine Learning]]
+- [[https://github.com/IuraCPersonal/machine-learning/tree/main/LinearRegression][Linear Regression Examples]]
+
+** 📮 CONTACT
+
+If you have any question, please contact me through email: =iurie.cius@isa.utm.md=.
+
+** LICENCE
+
+All copyrights reserved to their respective owners.
